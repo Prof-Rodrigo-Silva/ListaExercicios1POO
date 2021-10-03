@@ -51,7 +51,7 @@ public class ClasseExecutavel {
 		
 		System.out.println("----------------------------------------------------------");
 		System.out.println(correntista.getConta().Extrato());
-		//teste
+		
 		
 
 	}
